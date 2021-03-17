@@ -1,9 +1,9 @@
-# river_movies
+# Flutter Clean Architecture using the Provider, Hook, RiverPod
 
 A new Flutter application.
 
 ## App architecture
-- Base on [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) + [CleanArchitecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- Base on [CleanArchitecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 ## Data Flow
 ![Structure](files/RiverFlutter.jpg "Data flow")
